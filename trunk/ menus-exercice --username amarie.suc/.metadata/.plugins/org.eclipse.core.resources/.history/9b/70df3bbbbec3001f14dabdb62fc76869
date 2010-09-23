@@ -1,0 +1,47 @@
+package fr.amsuc.android.activite;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.util.Log;
+
+public class Main2 extends Activity{
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.main2);
+		Log.i("sous activite", "on create main2");
+        if (this.getIntent().getExtras() != null){
+        	String s=this.getIntent().getExtras().getString("madonnee");
+        	Log.i("sous activite", ">>>main2 recupere "+s);
+        }
+	}
+
+	@Override
+	protected void onStart() {
+        Log.i("", "main2.ontstart");
+		super.onStart();
+	}
+	@Override
+	protected void onPause() {
+        Log.i("", "main2.onpause");
+		super.onPause();
+	}
+	@Override
+	protected void onResume() {
+        Log.i("", "main2.onresume");
+        //ici dernier "moment" pour retourner un code à l'activité appelante main
+        this.setResult(3000); 
+		super.onResume();
+	}
+	@Override
+	protected void onStop() {
+        Log.i("", "main2.onstop");
+		super.onStop();
+	}
+	@Override
+	protected void onDestroy() {
+        Log.i("", "main2.ondestroy");
+		super.onDestroy();
+	}
+}

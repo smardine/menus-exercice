@@ -1,0 +1,17 @@
+package de.vogella.android.listactivity;
+
+import android.app.Activity;
+import android.widget.ArrayAdapter;
+
+public class MyArrayAdapter extends ArrayAdapter<String>{
+	
+	private final Activity context;
+	private final String[] names;
+	
+	public MyArrayAdapter(Activity context, String[] names){
+		super(context, R.layout.rowlayout, names);
+		this.context = context;
+		this.names = names;
+	}
+
+}

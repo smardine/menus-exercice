@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.app.ListActivity"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.widget.ListView"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="de.vogella.android.listactivity.R.layout"/>
+<fullyQualifiedTypeName name="de.vogella.android.listactivity.R.id"/>
+<fullyQualifiedTypeName name="de.vogella.android.listactivity.R.drawable"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="fr.amsuc.android.activite.R.id"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="fr.amsuc.android.menu.R.drawable"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.drawable"/>
+<fullyQualifiedTypeName name="android.os.SystemClock"/>
+<fullyQualifiedTypeName name="android.view.MenuInflater"/>
+<fullyQualifiedTypeName name="de.vogella.android.preferences.R.menu"/>
+<fullyQualifiedTypeName name="android.preference.PreferenceManager"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="de.vogella.android.preferences.R.id"/>
+<fullyQualifiedTypeName name="de.vogella.android.preferences.R.xml"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="fr.amsuc.android.menu.R.layout"/>
+<fullyQualifiedTypeName name="fr.amsuc.android.menu.R.id"/>
+</qualifiedTypeNameHistroy>

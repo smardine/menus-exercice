@@ -1,0 +1,20 @@
+package fr.amsuc.android.activite;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.util.Log;
+
+public class Main2 extends Activity{
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.main2);
+		Log.i("sous activite", "on create main2");
+        if (this.getIntent().getExtras() != null){
+        	String s=this.getIntent().getExtras().getString("madonnee");
+        	Log.i("sous activite", "OnCreate récupere "+s);
+        }
+	}
+
+}
