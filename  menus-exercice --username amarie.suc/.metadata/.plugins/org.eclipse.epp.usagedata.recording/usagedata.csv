@@ -1,0 +1,102 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236276502
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236280003
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236289049
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236293253
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236300190
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236304206
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1285236304237
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236309393
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236371816
+activated,editor,com.android.ide.eclipse.adt,0.9.8.v201008281755-53891,"com.android.ide.eclipse.editors.layout.LayoutEditor",1285236372097
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1285236372300
+closed,editor,com.android.ide.eclipse.adt,0.9.8.v201008281755-53891,"com.android.ide.eclipse.editors.layout.LayoutEditor",1285236372316
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236376753
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236694146
+executed,command,,,"com.android.ide.eclipse.adt.debug.launching.LaunchShortcut.debug",1285236701333
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236701365
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236703677
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.closeProject",1285236707052
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.closeProject",1285236709099
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236712380
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236716958
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236737787
+executed,command,org.eclipse.team.ui,3.5.0.I20090430-0408,"org.eclipse.team.ui.applyPatch",1285236737834
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.closeProject",1285236740287
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.openProject",1285236742771
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236756865
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236758271
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1285236758302
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1285236758302
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236763834
+error,log,,,"Failed to load properties file for project 'test'",1285236765740
+error,log,,,"Internal Error",1285236765802
+error,log,,,"Problems encountered while deleting resources.",1285236765802
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236773474
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1285236773490
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1285236773490
+error,log,,,"Failed to load properties file for project 'test'",1285236773506
+error,log,,,"Failed to load properties file for project 'test'",1285236773506
+error,log,,,"JavaBuilder handling CoreException while building: test",1285236773521
+error,log,,,"Failed to load properties file for project 'test'",1285236773537
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236775224
+error,log,,,"Failed to load properties file for project 'test'",1285236775365
+error,log,,,"Failed to load properties file for project 'test'",1285236775381
+error,log,,,"JavaBuilder handling ImageBuilderInternalException while building: test",1285236775381
+error,log,,,"Failed to load properties file for project 'test'",1285236775396
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236775521
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236775818
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236779537
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236785349
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.project.closeProject",1285236795271
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.refresh",1285236803990
+error,log,,,"Failed to load properties file for project 'test'",1285236804131
+error,log,,,"Failed to load properties file for project 'test'",1285236804131
+error,log,,,"Failed to load properties file for project 'test'",1285236804146
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236807475
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236809568
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.101.r352_v20100209,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1285236809584
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1285236809584
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285236812225
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285237335775
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285237335853
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285237336728
+closed,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1285237336994
+stopped,bundle,org.eclipse.team.cvs.ssh2,3.2.200.I20090508-2000,"org.eclipse.team.cvs.ssh2",1285237337791
+stopped,bundle,org.eclipse.team.cvs.ssh,3.2.100.I20090508-2000,"org.eclipse.team.cvs.ssh",1285237337806
+stopped,bundle,org.eclipse.team.cvs.ui,3.3.202.r35x_20090930-0800,"org.eclipse.team.cvs.ui",1285237337806
+stopped,bundle,org.eclipse.team.cvs.core,3.3.200.I20090430-0408,"org.eclipse.team.cvs.core",1285237337806
+stopped,bundle,org.eclipse.jsch.ui,1.1.200.r35x_20100210-1114,"org.eclipse.jsch.ui",1285237337869
+stopped,bundle,org.eclipse.jsch.core,1.1.100.I20090430-0408,"org.eclipse.jsch.core",1285237337884
+stopped,bundle,org.eclipse.help.webapp,3.4.1.v20091009_35x,"org.eclipse.help.webapp",1285237337962
+stopped,bundle,org.eclipse.equinox.jsp.jasper.registry,1.0.100.v20090520-1800,"org.eclipse.equinox.jsp.jasper.registry",1285237338009
+stopped,bundle,org.eclipse.equinox.jsp.jasper,1.0.200.v20090520-1800,"org.eclipse.equinox.jsp.jasper",1285237338041
+stopped,bundle,com.android.ide.eclipse.adt,0.9.8.v201008281755-53891,"com.android.ide.eclipse.adt",1285237338041
+stopped,bundle,org.eclipse.ui.cheatsheets,3.3.200.v20090526,"org.eclipse.ui.cheatsheets",1285237338087
+stopped,bundle,org.eclipse.help.ui,3.4.1.v20090819_35x,"org.eclipse.help.ui",1285237338103
+stopped,bundle,org.eclipse.epp.usagedata.ui,1.1.1.R201001291118,"org.eclipse.epp.usagedata.ui",1285237338103
+stopped,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1285237338197
+stopped,bundle,org.eclipse.ui.intro,3.3.2.v20100111_35x,"org.eclipse.ui.intro",1285237338212
+stopped,bundle,org.eclipse.help.base,3.4.0.v201002111343,"org.eclipse.help.base",1285237338244
+stopped,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1285237338259
+stopped,bundle,org.eclipse.equinox.http.servlet,1.0.200.v20090520-1800,"org.eclipse.equinox.http.servlet",1285237338259
+stopped,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.reconciler.dropins",1285237338259
+stopped,bundle,org.eclipse.equinox.p2.extensionlocation,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.extensionlocation",1285237338275
+stopped,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.100.v20090525,"org.eclipse.equinox.p2.directorywatcher",1285237338275
+stopped,bundle,org.eclipse.equinox.util,1.0.100.v20090520-1800,"org.eclipse.equinox.util",1285237338275
+stopped,bundle,org.eclipse.ecf.provider.filetransfer.httpclient,3.0.1.v20090831-1906,"org.eclipse.ecf.provider.filetransfer.httpclient",1285237338275
+stopped,bundle,org.eclipse.equinox.p2.director.app,1.0.101.R35x_v20091106,"org.eclipse.equinox.p2.director.app",1285237338291
+stopped,bundle,org.eclipse.equinox.p2.console,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.console",1285237338306
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk",1285237338322
+stopped,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20090520-1905,"org.eclipse.equinox.p2.ui.sdk.scheduler",1285237338322
+stopped,bundle,org.eclipse.equinox.p2.ui,1.0.101.R35x_v20090819,"org.eclipse.equinox.p2.ui",1285237338369
+stopped,bundle,org.eclipse.equinox.p2.exemplarysetup,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.exemplarysetup",1285237338369
+stopped,bundle,org.eclipse.equinox.p2.updatechecker,1.1.0.v20090520-1905,"org.eclipse.equinox.p2.updatechecker",1285237338369
+stopped,bundle,org.eclipse.equinox.p2.touchpoint.eclipse,1.0.101.R35x_20090820-1821,"org.eclipse.equinox.p2.touchpoint.eclipse",1285237338416
+stopped,bundle,org.eclipse.equinox.p2.garbagecollector,1.0.100.v20090520-1905,"org.eclipse.equinox.p2.garbagecollector",1285237338416
+stopped,bundle,org.eclipse.equinox.p2.repository.tools,1.0.2.R35x_20100111,"org.eclipse.equinox.p2.repository.tools",1285237338416
+stopped,bundle,org.eclipse.equinox.p2.director,1.0.101.R35x_v20100112,"org.eclipse.equinox.p2.director",1285237338416
+stopped,bundle,org.eclipse.equinox.p2.touchpoint.natives,1.0.101.R35x_v20090806,"org.eclipse.equinox.p2.touchpoint.natives",1285237338447
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.204.v200909021537,"org.eclipse.wst.xsd.ui",1285237338462
+stopped,bundle,org.eclipse.emf.edit.ui,2.5.0.v200906151043,"org.eclipse.emf.edit.ui",1285237338494
+stopped,bundle,org.eclipse.emf.common.ui,2.5.0.v200906151043,"org.eclipse.emf.common.ui",1285237338525

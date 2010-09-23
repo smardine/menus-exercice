@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FileSystemImportWizard">
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="false" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Documents and Settings\Anne-Marie\Mes documents\Mes téléchargements\IMAGES\images\drawable-hdpi"/>
+			<item value="C:\Documents and Settings\Anne-Marie\Mes documents\Mes téléchargements\IMAGES\images\drawable-mdpi"/>
+			<item value="C:\Documents and Settings\Anne-Marie\Mes documents\Mes téléchargements\IMAGES\images\drawable-ldpi"/>
+			<item value="C:\Documents and Settings\Anne-Marie\Mes documents\Mes téléchargements\IMAGES\images"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="4" key="DIALOG_Y_ORIGIN"/>
+		<item value="232" key="DIALOG_X_ORIGIN"/>
+	</section>
+	<section name="NewWizardAction">
+		<item value="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="com.android.ide.eclipse.wizards.category"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="698" key="DIALOG_WIDTH"/>
+		<item value="-154" key="DIALOG_Y_ORIGIN"/>
+		<item value="837" key="DIALOG_HEIGHT"/>
+		<item value="-205" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|8.4|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+	</section>
+	<section name="ZipFileExportWizard">
+	</section>
+	<section name="ShowViewDialog">
+		<item value="347" key="DIALOG_WIDTH"/>
+		<item value="org.eclipse.jdt.ui.JavadocView" key="ShowViewDialog.STORE_SELECTED_VIEW_ID"/>
+		<item value="195" key="DIALOG_Y_ORIGIN"/>
+		<item value="453" key="DIALOG_HEIGHT"/>
+		<item value="471" key="DIALOG_X_ORIGIN"/>
+		<item value="1|Tahoma|8.4|0|WINDOWS|1|-14|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		<list key="ShowViewDialog.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+</section>

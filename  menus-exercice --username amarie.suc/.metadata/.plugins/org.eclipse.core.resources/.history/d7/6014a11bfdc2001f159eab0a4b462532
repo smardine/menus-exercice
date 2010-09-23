@@ -1,0 +1,22 @@
+package de.vogella.android.listactivity;
+
+import android.app.Activity;
+import android.widget.ArrayAdapter;
+
+/*
+ * surcharger la méthode d'affichage d'une ligne de liste
+ * de manière à customiser par exemple l'icone en fonction de la ligne
+ * en cours d'affichage
+ */
+public class MyArrayAdapter extends ArrayAdapter<String>{
+	
+	private final Activity context;
+	private final String[] names;
+	
+	public MyArrayAdapter(Activity context, String[] names){
+		super(context, R.layout.rowlayout, names);
+		this.context = context;
+		this.names = names;
+	}
+
+}

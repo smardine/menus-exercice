@@ -1,0 +1,69 @@
+package fr.amsuc.android.activite;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.EditText;
+
+public class Main extends Activity implements OnClickListener {
+	
+	Button button;
+	EditText edit;
+	
+    /** Called when the activity is first created. */
+    @Override
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.main);
+        button = ((Button)this.findViewById(R.id.bouton1));
+        edit = ((EditText)this.findViewById(R.id.edit1));
+        
+        button.setOnClickListener(this);
+        Log.i("mon activite", "OnCreate");
+    }
+    @Override
+    protected void onStart() {
+    	Log.i("mon activite", "OnStart");
+    	super.onStart();
+    }
+    
+    
+    @Override
+    protected void onPause() {
+    	Log.i("monactivite", "On Pause");
+    	super.onPause();
+    }
+    
+    @Override
+    protected void onResume() {
+    	Log.i("mon activite", "On Resume");
+    	super.onResume();
+    }
+    
+    @Override
+    protected void onStop() {
+    	Log.i("mon activite", "OnStop");
+    	super.onStop();
+    }
+    
+    @Override
+    protected void onDestroy() {
+    	Log.i("mon activite", "OnDestroy");
+    	super.onDestroy();
+    }
+	@Override
+	public void onClick(View arg0) {
+		// ici on peut pousser une nouvelle activité grace aux Intent
+		
+		//création d'une nouvelle instance de Main:
+		Intent intent = new Intent(this, Main.class); 
+		// pour démarrer cette nouvelle instance:
+		this.startActivityForResult(intent, 1000); 
+		//le requestcode (2eme arg) est un paramètre qu'on veut envoyer à son sous-actvité
+		
+	}
+}
