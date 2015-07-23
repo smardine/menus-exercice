@@ -1,0 +1,1 @@
+mini application mobile présentant la manière de créer à la volée un menu et/ou menu contextuel
